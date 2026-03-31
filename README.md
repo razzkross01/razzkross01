@@ -1,33 +1,33 @@
 <h1 align="center">
-  👋 Hola, soy Raimundo Arenas
+  Hola, soy Raimundo Arenas
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  💻 Desarrollador Fullstack Python Trainee <br>
-  🚀 Especializado en Django y desarrollo web <br>
+   Desarrollador Fullstack Python Trainee <br>
+   Especializado en Django y desarrollo web <br>
   🇨🇱 Chile
 </p>
 
 ---
 
-## 🧠 Sobre mí
+##  Sobre mí
 
 <p align="center">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250">
 </p>
 
-* 👨‍💻 Desarrollador Fullstack en formación
-* 🔧 Enfocado en backend con **Python y Django**
-* 📚 Actualmente perfeccionando desarrollo web y bases de datos
-* 🚀 Construyendo proyectos reales tipo fintech
-* 🎯 Buscando mi primera oportunidad como desarrollador junior
+*  Desarrollador Fullstack en formación
+*  Enfocado en backend con **Python y Django**
+*  Actualmente perfeccionando desarrollo web y bases de datos
+*  Construyendo proyectos reales tipo fintech
+*  Buscando mi primera oportunidad como desarrollador junior
 
 ---
 
-## 🚀 Proyecto destacado
+## Proyecto destacado
 
-### 💳 Alke Wallet
+###  Alke Wallet
 
 Aplicación web tipo billetera digital desarrollada con Django.
 
@@ -44,24 +44,24 @@ Aplicación web tipo billetera digital desarrollada con Django.
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 
-### 💻 Backend
+###  Backend
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge\&logo=python)
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=for-the-badge\&logo=django)
 
-### 🎨 Frontend
+###  Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 
-### 🗄 Base de datos
+###  Base de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
 
-### ⚙️ Herramientas
+###  Herramientas
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
@@ -85,7 +85,7 @@ Aplicación web tipo billetera digital desarrollada con Django.
 
 ---
 
-## 🚀 Objetivo profesional
+## Objetivo profesional
 
 Seguir desarrollándome como **Backend Developer con Python y Django**, participando en proyectos reales, aprendiendo nuevas tecnologías y aportando soluciones de valor en equipos de desarrollo.
 
