@@ -73,7 +73,7 @@ Aplicación web tipo billetera digital desarrollada con Django.
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/raimundo-arenas-espinoza-b99922190/)">
+<a href="https://www.linkedin.com/in/raimundo-arenas-espinoza-b99922190/">
 <img src="https://img.shields.io/badge/LinkedIn-Raimundo_Arenas-blue?style=for-the-badge&logo=linkedin">
 </a>
 
